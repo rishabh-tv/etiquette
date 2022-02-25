@@ -1,0 +1,1 @@
+### In this project we have coun t the length of a string
